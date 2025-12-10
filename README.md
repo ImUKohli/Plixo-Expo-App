@@ -1,2 +1,3 @@
-# Final-Year-Project-G16_1481_0533_2206
-This is a Final Year Project Submission by Utkarsh Kohli (2110991481) , Gurnaman Singh (2110990533) and Gaurav Jangra (2110992206)
+#PLixo React Native App
+React Native app that retrieves live movie data through the TMDB API, supports secure login via Firebase Auth, and includes watchlist CRUD functionality. Implements a dynamic ranking system based on user interactions.
+Tech Stack: React Native, Firebase Auth, TMDB API, Async Storage, Expo
